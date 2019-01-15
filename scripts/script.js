@@ -1,5 +1,7 @@
+var name;
 $( document ).ready(function() {
-    let name;
+
+    
     let gender;
     let location;
     $( "#submit" ).click(function(event) {

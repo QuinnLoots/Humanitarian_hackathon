@@ -1,3 +1,6 @@
+h2{
+    padding-top: 10px;
+}
 #bg{
     background-color: #3399ff;
 clip-path: polygon(50% 0%, 100% 0, 100% 50%, 74% 100%, 0 100%, 0 0);
