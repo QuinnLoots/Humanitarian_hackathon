@@ -1,4 +1,4 @@
 $( document ).ready(function() {
 
-    $("#tekst").text("Welcome, "+name);
+    $("#tekst").text("Welcome, "+localStorage.getItem("name"));
 });

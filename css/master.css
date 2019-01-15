@@ -17,6 +17,10 @@ clip-path: polygon(50% 0%, 100% 0, 100% 50%, 74% 100%, 0 100%, 0 0);
     margin-top: 50px;
 }
 
+.marginbot{
+    margin-bottom: 200px;
+}
+
 @media (min-width: 1025px){
     body, html{
     height: 100%;
