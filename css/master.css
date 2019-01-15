@@ -1,0 +1,17 @@
+body, html{
+ 
+height: 100%;
+
+}
+
+#bg{
+    background-color: #3399ff;
+clip-path: polygon(50% 0%, 100% 0, 100% 50%, 74% 100%, 0 100%, 0 0);
+    z-index: -1;
+    height: 100%;
+
+}
+.formcontainer{
+    padding: 20px 20px 200px 20px;
+
+}
