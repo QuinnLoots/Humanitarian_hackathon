@@ -3,7 +3,7 @@ $( document ).ready(function() {
   $( "#subm" ).click(function() {
 
   
-    let str = localStorage.getItem("product")+","+$("#amount").val();
+    let str = localStorage.getItem("farmer") + ","+localStorage.getItem("product")+","+$("#amount").val();
     localStorage.setItem("test",localStorage.getItem("test")+";"+str);
     
    
