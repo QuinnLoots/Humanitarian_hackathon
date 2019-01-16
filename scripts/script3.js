@@ -1,7 +1,6 @@
-
 $( document ).ready(function(){
 
-    $(".btn").click(function(){
+    $(".btns").click(function(){
         product = $(this).text();
         localStorage.setItem("product",product);
 
